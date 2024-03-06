@@ -1,0 +1,15 @@
+@import url(./fonts.css);
+/* Customprops*/
+:root{
+    --primary-color:#7177F1;
+    --body:#151437;
+    --text-color:#fff;  /*323232*/
+    --dots:#EBEBEB;  /*828282*/
+    --dots-active:#7177F1;
+    --white:#fff;
+    --subtitle:#EBEBEB; /*323232*/
+    --footer-link:#fff; /*#7177F1;*/
+
+
+
+}
